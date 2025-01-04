@@ -96,7 +96,7 @@ export function ContentSection() {
     <main className="pt-20 lg:pt-32 lg:pb-8 lg:w-1/2">
       <section className="text-back-950 dark:text-back-300">
         <p className="mb-4">
-          Hi there! 👋 Hello and welcome! I'm a highly motivated and results-oriented Software Development Engineer with more than 2 years of experience in crafting robust backend solutions leveraging Node.js and Python. 
+          Hi there! 👋 Hello and welcome! I&apos;m a highly motivated and results-oriented Software Development Engineer with more than 2 years of experience in crafting robust backend solutions leveraging Node.js and Python. 
           Adept at collaborating within cross-functional teams to design, develop, and implement scalable and efficient applications. 
           Proficient in programming fundamentals and project management methodologies. 
           I am eager to contribute my expertise and passion for technology to a dynamic organization.

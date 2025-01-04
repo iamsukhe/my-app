@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Twitter, Sun, Bookmark } from 'lucide-react'
+import { Github, Linkedin, Mail} from 'lucide-react'
 
 interface SocialIconProps {
   href: string
