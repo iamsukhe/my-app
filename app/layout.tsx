@@ -9,7 +9,7 @@ const geist = Geist({
 })
 
 export const metadata: Metadata = {
-  title: 'Your Name - Portfolio',
+  title: 'Sukhvinder Singh - Portfolio',
   description: 'Personal portfolio and resume',
 }
 
