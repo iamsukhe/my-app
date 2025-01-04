@@ -20,14 +20,15 @@ export function ProfileSection() {
           Sukhvinder Singh
         </h1>
         <h2 className="text-2xl mt-1 text-back-800 dark:text-back-200">
-          Pursuing Computer Science @{' '}
+          Pursuing Computer Science
+          <br />
           <a
             href="https://www.essex.ac.uk/"
             target="_blank"
             rel="noopener noreferrer"
             className="decoration-gray-400 underline underline-offset-4 decoration-2"
           >
-            University of Essex
+            @{' '} University of Essex
           </a>
         </h2>
         <p className="mt-2 mb-6 text-back-500 dark:text-back-300 max-w-xs">
