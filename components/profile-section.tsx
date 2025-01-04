@@ -32,7 +32,7 @@ export function ProfileSection() {
           </a>
         </h2>
         <p className="mt-2 mb-6 text-back-500 dark:text-back-300 max-w-xs">
-          I love to code and learn new technology.
+          I'm passionate about coding and constantly expanding my expertise in technologies like Node.js, JavaScript, AdonisJS, Python, and Django.
         </p>
         <ResumeLink />
         <SocialIcons />
